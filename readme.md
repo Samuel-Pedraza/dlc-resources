@@ -1,13 +1,13 @@
 # Discrete Log Contract Resources
 
 ### Implementations
-[Scala + Bitcoin-S](https://bitcoin-s.org/docs/next/wallet/dlc)
+[Scala & Bitcoin-S](https://bitcoin-s.org/docs/next/wallet/dlc)
 
 [C++](https://github.com/p2pderivatives/cfd-dlc)
 
-[rust](https://github.com/p2pderivatives/rust-dlc)
+[Rust](https://github.com/p2pderivatives/rust-dlc)
 
-[c#](https://github.com/dgarage/NDLC)
+[C#](https://github.com/dgarage/NDLC)
 
 
 ### Resources
